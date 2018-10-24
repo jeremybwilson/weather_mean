@@ -1,0 +1,35 @@
+#container-fluid {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.weather-display {
+    margin: 10px 0px;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.show {
+    display: block;
+}
+
+input[name="city"] {
+    width: 25rem;
+    border-color: black;
+}
+
+input[type="submit"] {
+    /* font-family: monospace; */
+    font-size: 0.8em;
+}
+
+h1, h2 {
+    display: inline;
+}
+#wea_data {
+    padding: 1rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+}
